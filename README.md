@@ -1,6 +1,6 @@
 # Sql Server Ementa:
 
-8. [SQL Server] JOINs no SQL ⚙️
+8. [SQL Server] JOINs no SQL ⚙️ Aula 96
 9. [SQL Server] Group By + Joins - Aplicações
 10. [SQL Server] Variáveis
 11. [SQL Server] Manipulando Strings e Datas no SQL
